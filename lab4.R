@@ -1,0 +1,6 @@
+source("http://thegrantlab.org/misc/cdc.R")
+View(cdc)
+head(cdc$height)
+tail(cdc$weight, 20)
+plot(cdc$height, cdc$weight, main = "Scatterplot of Height vs Weight", xlab = "Height (inches)", ylab = "Weight (pounds)", pch = 19)
+write.csv(cdc, "cdc_dataset.csv", row.names = FALSE)
