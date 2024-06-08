@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # BIMM143 Portfolio
 My classfor for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) at UC San Diego.
 
