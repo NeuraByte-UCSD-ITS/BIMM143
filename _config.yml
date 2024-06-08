@@ -1,6 +1,6 @@
 theme : jekyll-theme-minimal
 logo: /_logos/r_dna_neuron.png
-title: Bioinformatics
+title: Bioinformatics using R
 
 include:
   - _logos
