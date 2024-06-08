@@ -13,7 +13,7 @@ My class for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) at UC
 - **Class 4** [Introduction to Data in R](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%204/lab4.pdf)
 - **Class 5** [Data visualization with ggplot2](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%205/Class05.pdf)
 - **Class 6** [R Functions](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%206/class06.pdf)
-- **Class 7** [Welcome to Bioinformatics](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%207/Class%207_%20Machine%20Learning%20-%20Lab_07.pdf)
+- **Class 7** [Machine Learning](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%207/Class%207_%20Machine%20Learning%20-%20Lab_07.pdf)
 - **Class 8** [Unsupervised Learning Analysis of Human Breast Cancer Cells](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%208/08%20HW-Lab%20Class08(ML%20Mini%20Project).pdf)
 - **Class 9** [Exploratory Analysis of Halloween Candy](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%209/Lab%20Class9%20Halloween%20Mini-Project.pdf)
 - **Class 10** [Structural Bioinformatics (Pt. 1)](https://bioboot.github.io/bimm143_S24/class-material/pdb_pca_labclass.html)
