@@ -1,10 +1,24 @@
+# theme: jekyll-theme-minimal
+# logo: /_logos/r_dna_neuron.png
+# title: Bioinformatics 
+# baseurl: "/BIMM143" 
+# # url: "https://neurabyte-ucsd-its.github.io/BIMM143/"
+# url: "neurabyte-ucsd-its.github.io/BIMM143/"
+
+# include:
+#   - _logos
+#   - _layout
+
 theme: jekyll-theme-minimal
 logo: /_logos/r_dna_neuron.png
 title: Bioinformatics 
-baseurl: "/BIMM143" 
-# url: "https://neurabyte-ucsd-its.github.io/BIMM143/"
-url: "neurabyte-ucsd-its.github.io/BIMM143/"
+baseurl: "/BIMM143"
+url: "https://neurabyte-ucsd-its.github.io/BIMM143/"
 
 include:
   - _logos
   - _layout
+
+author: "Edwin Ruiz"
+project_directory: "https://github.com/NeuraByte-UCSD-ITS/BIMM143"
+project_name: "NeuraByte-UCSD-ITS/BIMM143"
