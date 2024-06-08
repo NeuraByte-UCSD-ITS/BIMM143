@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index.html
 title: Home
 ---
 
