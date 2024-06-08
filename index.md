@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# BIMM143 Portfolio
+# Bioinformatics Techniques & Applications in Genomics and Proteomics using R
 Credit to [Professor Barry Grant - Spring 2024](https://bioboot.github.io/bimm143_S24/) at UC San Diego.
 
 - **Lesson 1** [Bioinformatics Databases and Key Online Resource](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Class%201/lab1.pdf)
