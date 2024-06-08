@@ -30,10 +30,22 @@ nav ul li {
     display: inline;
 }
 
-/* Style the image */
+/* Resize and center the image */
 img {
-    max-width: 100%;
+    max-width: 50%; /* Adjust this value to resize the image */
     height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Remove bullet points from lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
 }
 
 /* Add some padding and margin to sections */
