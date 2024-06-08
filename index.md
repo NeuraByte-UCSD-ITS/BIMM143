@@ -30,3 +30,6 @@ Credit to [Professor Barry Grant - Spring 2024](https://bioboot.github.io/bimm14
 - **Project** [Calcim/Calmodulin dependant protein type 1 - CAMK1](https://github.com/NeuraByte-UCSD-ITS/BIMM143/blob/main/Projects/03*.%20Project%20Find%20a%20Gene%20Assignment%20Part%202.pdf)
 - **R Programming** [Documentation](https://www.r-project.org/other-docs.html)
 - **R Programming** [Tutorials](https://www.w3schools.com/r/default.asp)
+
+
+**Github Pages** [Documentation](https://docs.github.com/en/pages/quickstart)
