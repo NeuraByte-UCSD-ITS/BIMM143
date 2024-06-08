@@ -1,5 +1,15 @@
 /* Set the logo dimensions */
 .logo img {
-  width: 1300px;
-  height: 1300px;
+  width: 1300px; /* or any size you prefer */
+  height: auto;  /* maintain aspect ratio */
+}
+
+/* Make the text bigger */
+main ul {
+  font-size: 1.25em; /* Increase the font size as needed */
+}
+
+/* Make the links bolder */
+main ul li {
+  font-weight: bold;
 }
